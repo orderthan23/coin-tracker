@@ -16,6 +16,7 @@ const Header = styled.header`
     display : flex;
     justify-content: center;
     align-items: center;
+    margin-bottom : 20px;
 `;
 const CoinList = styled.ul``;
 const Coin = styled.li`
